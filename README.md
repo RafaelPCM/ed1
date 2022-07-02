@@ -1,4 +1,4 @@
-# Binary Search Tree AED1
+# Binary Search Tree and AVL AED1
 
 https://www.ime.usp.br/~pf/algoritmos/aulas/binst.html
 
