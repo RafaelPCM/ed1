@@ -13,12 +13,6 @@ https://www.freecodecamp.org/portuguese/news/arvores-binarias-de-busca-bst-expli
 https://blog.devgenius.io/trees-binary-search-trees-and-traversal-ab63e192f3a7
 
 
-
-
-
-
-
-
 https://www.log2base2.com/data-structures/tree/remove-an-element-from-binary-search-tree.html
 
 https://www.tutorialspoint.com/data_structures_algorithms/binary_search_tree.htm
